@@ -1,3 +1,20 @@
+
+
+
+![image](https://github.com/user-attachments/assets/c8cbe33d-dd21-4e71-b264-46df939c2656)
+![image](https://github.com/user-attachments/assets/60ba0590-7830-4c32-bba0-c3d0c14e80b7)
+![image](https://github.com/user-attachments/assets/3feba0a1-8d99-4350-8a8a-28a44079265e)
+![image](https://github.com/user-attachments/assets/993ce384-8b3a-44e4-92ff-2ce72bb27995)
+![image](https://github.com/user-attachments/assets/13ba6f37-485a-4fb3-897d-fe45605e6ee2)
+![image](https://github.com/user-attachments/assets/f195d047-d494-4596-bb55-dcecfdca99f7)
+![image](https://github.com/user-attachments/assets/dd42e7f1-0379-4bc2-8f54-e0e549af0574)
+
+
+
+
+
+
+
 # Solar Challenge Week 1
 
 Analysis of solar farm data from Benin, Sierra Leone, and Togo for MoonLight Energy Solutions.
@@ -20,15 +37,15 @@ Analysis of solar farm data from Benin, Sierra Leone, and Togo for MoonLight Ene
 +-- README.md
 +-- src/
 +-- notebooks/
-¦   +-- __init__.py
-¦   +-- README.md
+Â¦   +-- __init__.py
+Â¦   +-- README.md
 +-- tests/
-¦   +-- __init__.py
+Â¦   +-- __init__.py
 +-- scripts/
-¦   +-- __init__.py
-¦   +-- README.md
+Â¦   +-- __init__.py
+Â¦   +-- README.md
 +-- app/
-¦   +-- __init__.py
-¦   +-- main.py
-¦   +-- utils.py
+Â¦   +-- __init__.py
+Â¦   +-- main.py
+Â¦   +-- utils.py
 ```
