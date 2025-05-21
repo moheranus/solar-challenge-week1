@@ -24,7 +24,7 @@ Analysis of solar farm data from Benin, Sierra Leone, and Togo for MoonLight Ene
 - Python 3.10+
 - Git
 ### Steps
-1. Clone: `git clone https://github.com/<your-username>/solar-challenge-week1.git`
+1. Clone: `git clone https://github.com/moheranus/solar-challenge-week1.git`
 2. Create venv: `python -m venv venv`
 3. Activate (Windows): `.\venv\Scripts\Activate.ps1`
 4. Install: `pip install -r requirements.txt`
